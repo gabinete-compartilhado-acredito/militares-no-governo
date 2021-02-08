@@ -16,14 +16,18 @@ final podem ser encontrados [aqui](http://xavier.turmadafisica.net/militares_gov
     ├── LICENSE                                   <- Licença de uso, cópia e modificações
     ├── README.md                                 <- Este documento
     ├── militares_com_cargos_comissionados.ipynb  <- Jupyter notebook com a análise realizada
-    ├── dados                                     <- Diretório onde colocar os dados (baixar dos links no notebook)
+    ├── dados                                     <- Diretório onde colocar os dados (baixar dos links abaixo)
     └── resultados                                <- Diretório com os arquivos CSV produzidos pela análise ou para a visualização
 
 ## 3. Fonte de dados
 
 Os dados brutos foram obtidos do [Portal da Transparência](http://www.portaltransparencia.gov.br/download-de-dados/servidores)
 e da resposta ao Requerimento de Informação [RIC 791/2020](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2257469).
-O jupyter notebook neste repositório contém, nos comentários, links para os dados utilizados (guardados no Google Storage).
+Os dados selecionados e preparados por nós foram disponibilizados no Google Storage:
+
+* [Cadastro de servidores civis com cargos/funções comissionadas](https://storage.googleapis.com/gab-compartilhado-publico/militares-no-governo/servidores_de_confianca_civis_ateh_2020-09.csv)
+* [Cadastro de servidores militares da ativa com cargos/funções comissionadas](https://storage.googleapis.com/gab-compartilhado-publico/militares-no-governo/servidores_de_confianca_militares_ateh_2020-09.csv)
+* [Lista de militares inativos](https://storage.googleapis.com/gab-compartilhado-publico/militares-no-governo/militares_inativos_2019-01_2020-05.csv)
 
 ### Autoria
 
