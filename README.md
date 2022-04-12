@@ -1,7 +1,7 @@
 # Militares no governo
 
 Nesta análise, buscamos levantar a fração de cargos/funções comissionados (i.e. de livre escolha dos governantes)
-de níveis altos ocupados por militares, mês a mês, de 2013 a 2020.
+de níveis altos ocupados por militares, mês a mês, de janeiro de 2013 a dezembro de 2021.
 
 ## 1. Resultados
 
@@ -25,13 +25,15 @@ Os dados brutos foram obtidos do [Portal da Transparência](http://www.portaltra
 e da resposta ao Requerimento de Informação [RIC 791/2020](https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2257469).
 Os dados selecionados e preparados por nós foram disponibilizados no Google Storage:
 
-* [Cadastro de servidores civis com cargos/funções comissionadas](https://storage.googleapis.com/gab-compartilhado-publico/militares-no-governo/servidores_de_confianca_civis_ateh_2020-09.csv)
-* [Cadastro de servidores militares da ativa com cargos/funções comissionadas](https://storage.googleapis.com/gab-compartilhado-publico/militares-no-governo/servidores_de_confianca_militares_ateh_2020-09.csv)
-* [Lista de militares inativos](https://storage.googleapis.com/gab-compartilhado-publico/militares-no-governo/militares_inativos_2019-01_2020-05.csv)
+* [Cadastro de servidores civis com cargos/funções comissionadas](https://storage.googleapis.com/gab-compartilhado-publico/militares-no-governo/servidores_de_confianca_civis_ateh_2021-01.csv) (até 01/2021)
+* [Cadastro de servidores civis com cargos/funções comissionadas](https://storage.googleapis.com/gab-compartilhado-publico/militares-no-governo/servidores_de_confianca_civis_2021-02_2021-12.csv) (de 02/2021 em diante)
+
+* [Cadastro de servidores militares da ativa com cargos/funções comissionadas](https://storage.googleapis.com/gab-compartilhado-publico/militares-no-governo/servidores_de_confianca_militares_ateh_2021-01.csv)
+* [Lista de militares inativos](https://storage.googleapis.com/gab-compartilhado-publico/militares-no-governo/militares_inativos_2019-01_2021-11.csv)
 
 ### Autoria
 
-Esse projeto é uma realização do senador Alessandro Vieira (Cidadania/SE) e da deputada Tabata Amaral (PDT/SP).
+Esse projeto é uma realização do senador Alessandro Vieira (PSDB/SE) e da deputada Tabata Amaral (PSB/SP).
 A análise e visualização foi feita por Henrique Xavier - [@hsxavier](https://github.com/hsxavier).
 
 ### Licença
