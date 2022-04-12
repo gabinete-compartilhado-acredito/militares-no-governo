@@ -5,7 +5,7 @@ de níveis altos ocupados por militares, mês a mês, de janeiro de 2013 a dezem
 
 ## 1. Resultados
 
-O resultado dessa análise foi publicado no [Antagonista](https://www.oantagonista.com/brasil/a-militarizacao-do-executivo-e-real-e-sem-precedentes/) e
+O resultado dessa análise (com dados até a metade de 2020) foi publicado no [Antagonista](https://www.oantagonista.com/brasil/a-militarizacao-do-executivo-e-real-e-sem-precedentes/) e
 no [Congresso em foco](https://congressoemfoco.uol.com.br/governo/militares-governo-tabata-alessandro/). Uma descrição detalhada do projeto e o gráfico
 final podem ser encontrados [aqui](http://xavier.turmadafisica.net/militares_governo.html). A tabela com os número finais está disponível
 [aqui](https://docs.google.com/spreadsheets/d/1e7qfBBNXN3FA7LFq08ymaocMeeakYcSrdD62OTfhVIE).
